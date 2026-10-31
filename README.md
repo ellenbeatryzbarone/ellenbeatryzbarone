@@ -8,11 +8,10 @@
 
 ## 👩‍💻 Sobre mim
 
-- 💼 Atuo em um projeto de gestão escolar e acompanhamento de estudantes, trabalhando principalmente no front-end
 - 🌱 Estudando atualmente: [ex.: TypeScript avançado, testes, arquitetura de front-end]
 - 📊 Gosto de transformar dados em informação com SQL e Power BI
 - 💬 Pergunte-me sobre: React, JavaScript, HTML, CSS, Python
-- 🎯 Objetivo: [ex.: crescer como engenheira de IA]
+
 
 ---
 
