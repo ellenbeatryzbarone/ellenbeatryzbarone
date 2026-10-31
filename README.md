@@ -1,183 +1,157 @@
-<!-- BANNER -->
+<!-- ================= HERO ================= -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:111827,50:302B63,100:8B7CF6&text=ELLEN%20BEATRYZ&fontColor=FFFFFF&fontSize=48&fontAlignY=45&desc=SOFTWARE%20%7C%20DATA%20%7C%20ARTIFICIAL%20INTELLIGENCE&descSize=13&descAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:0D1117,50:17152B,100:302B63&text=ELLEN%20BEATRYZ&fontColor=FFFFFF&fontSize=48&fontAlignY=43&desc=SOFTWARE%20ENGINEERING%20%C2%B7%20DATA%20%C2%B7%20AI&descSize=14&descAlignY=65&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Engineering+%26+Analytics;Artificial+Intelligence+Researcher;Technology+for+Inclusive+Education"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3500&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Development;Data+Engineering+%26+Analytics;Generative+Artificial+Intelligence;Ethical+AI+%26+Inclusive+Technology"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/ellenbeatryzbarone">
-<img src="https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/>
 </a>
 <a href="https://br.linkedin.com/in/ellen-beatryz-m-s-lago-009159271/">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:ellen.bmslago@upe.br">
-<img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+<a href="http://lattes.cnpq.br/8254872870549201">
+<img src="https://img.shields.io/badge/Lattes-161B22?style=flat-square&logo=academia&logoColor=white"/>
 </a>
 
 </div>
 
----
+<br/>
 
-## 01 — ABOUT ME
+## PROFILE
 
-I'm Ellen Beatryz, a Full Stack Developer and Computer Engineering master's student.
+I'm Ellen Beatryz, a Computer Engineering master's student with a background in Systems Analysis and Development.
 
-My interests lie at the intersection of software engineering, data, artificial intelligence and inclusive educational technologies.
+My work and academic interests connect software engineering, data analytics and artificial intelligence, with a particular interest in developing accessible, ethical and human-centered technological solutions.
 
-I enjoy exploring how technology can transform complex problems into meaningful and accessible solutions.
+I enjoy working across different areas of technology, from application development and data processing to intelligent systems and educational innovation.
 
-**Currently exploring:**
+**Areas of interest**
 
-- Generative AI and ethical AI in education.
-- Data Engineering, ETL and analytical solutions.
-- Full Stack development and software architecture.
-- Assistive technologies and digital accessibility.
-
----
-
-## 02 — AREAS OF EXPERTISE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Software Engineering
-
-Full Stack development, web applications, frontend architecture and backend solutions.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Data Engineering
-
-Data processing, SQL, ETL pipelines, analytics and business intelligence.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Artificial Intelligence
-
-Generative AI, language models, prompt engineering and AI research.
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Inclusive Technology
-
-Accessibility, assistive technologies and educational innovation.
-
-</td>
-</tr>
-</table>
+- Software Engineering & Full Stack Development
+- Data Engineering, ETL & Business Intelligence
+- Generative AI & Large Language Models
+- Ethical AI in Education
+- Assistive Technology & Digital Accessibility
 
 ---
 
-## 03 — TECHNOLOGY STACK
+## TECHNICAL EXPERTISE
 
-**Languages & Development**
+**Programming & Application Development**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,ts,js,cs,html,css,react"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,cs,react,html,css"/>
 </p>
 
-**Data & Infrastructure**
+**Data & Business Intelligence**
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vscode"/>
-</p>
-
-<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Databricks-EA3E23?style=flat-square&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white"/>
+</p>
+
+**Tools & Infrastructure**
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,fastapi"/>
+</p>
+
+**Research & Emerging Technologies**
+
+<p>
+<img src="https://img.shields.io/badge/Generative_AI-8B7CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-8B7CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Accessibility-8B7CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-8B7CF6?style=flat-square"/>
 </p>
 
 ---
 
-## 04 — SELECTED PROJECTS
+## SELECTED WORK
 
-A collection of projects involving software development, artificial intelligence, data and accessibility.
+My projects explore the intersection of software development, artificial intelligence, data and inclusive technology.
 
 | Project | Focus |
 |:--|:--|
-| **REALCE** | Educational technology and student development monitoring |
-| **UPi Avatar** | AI-powered educational assistant and accessibility |
-| **Meta Kids** | Gamification, behavioral economics and interaction design |
-| **Data Engineering** | ETL, data transformation and analytical pipelines |
+| **REALCE** | Educational technology and individualized student monitoring |
+| **UPi Avatar** | AI-powered educational assistance and digital accessibility |
+| **Meta Kids** | Gamification, behavioral economics and human-computer interaction |
+| **Data Engineering** | ETL workflows, data transformation and analytics |
 
-> Explore my repositories to discover more about my work.
-
-[View all repositories →](https://github.com/ellenbeatryzbarone?tab=repositories)
+Explore my [repositories](https://github.com/ellenbeatryzbarone?tab=repositories) for more projects and technical implementations.
 
 ---
 
-<!-- 05 - GITHUB ANALYTICS -->
+## RESEARCH INTERESTS
 
-<h2 align="center">05 / GITHUB ANALYTICS</h2>
+My academic interests focus on the responsible application of artificial intelligence in educational environments.
+
+Current research direction:
+
+**Ontology for the Ethical Use of Generative Artificial Intelligence in Educational Contexts**
+
+Topics include:
+
+- Ethical principles and responsible AI.
+- Ontologies and knowledge representation.
+- Neurodiversity and inclusive education.
+- Generative AI and structured prompting.
+- Data governance and privacy in educational systems.
+
+---
+
+## GITHUB ANALYTICS
 
 <div align="center">
 
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=ellenbeatryzbarone&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"
-    alt="GitHub Statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ellenbeatryzbarone&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub Statistics"/>
 
-  <img width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenbeatryzbarone&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6"
-    alt="Most Used Languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenbeatryzbarone&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" alt="Most Used Languages"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <img width="75%"
-    src="https://streak-stats.demolab.com/?user=ellenbeatryzbarone&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=F0ABFC&currStreakNum=A78BFA&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=858585"
-    alt="GitHub Contribution Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com/?user=ellenbeatryzbarone&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=F0ABFC&currStreakNum=A78BFA&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=858585" alt="Contribution Streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ellenbeatryzbarone&theme=github_dark" alt="Contribution Overview"/>
 
 </div>
+
+---
+
+<div align="center">
+
+### LET'S BUILD TECHNOLOGY WITH PURPOSE.
+
+*Turning knowledge, research and ideas into meaningful solutions.*
 
 <br/>
 
-<!-- 06 - CONTRIBUTION ACTIVITY -->
+<a href="https://br.linkedin.com/in/ellen-beatryz-m-s-lago-009159271/">
+<img src="https://img.shields.io/badge/LET'S_CONNECT-8B7CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<h2 align="center">06 / CONTRIBUTION ACTIVITY</h2>
+<br/><br/>
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ellenbeatryzbarone&style=flat-square&color=8B7CF6&label=PROFILE+VISITS"/>
 
-  <img width="95%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ellenbeatryzbarone&theme=github_dark"
-    alt="GitHub Contribution Overview"/>
+<br/><br/>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:302B63,100:0D1117&height=90&section=footer"/>
 
-<br/>
-
-<hr/>
-
-<div align="center">
-
-  <h3>LET'S BUILD SOMETHING MEANINGFUL.</h3>
-
-  <i>Technology is more than code. It's about creating possibilities.</i>
-
-  <br/><br/>
-
-  <a href="https://linkedin.com/in/ellen-beatryz-m-s-lago-009159271/">
-    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8B7CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <br/><br/>
-
-  <img src="https://komarev.com/ghpvc/?username=ellenbeatryzbarone&style=flat-square&color=8B7CF6&label=PROFILE+VIEWS"/>
-
-</div>
-
-
-<img src="https://komarev.com/ghpvc/?username=ellenbeatryzbarone&style=flat-square&color=8B7CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>ghpvc/?username=ellenbeatryzbarone&style=flat-square&color=8B7CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
 
