@@ -118,48 +118,64 @@ A collection of projects involving software development, artificial intelligence
 
 ---
 
+<!-- 05 - GITHUB ANALYTICS -->
 
----
-
-## 05 — GITHUB ANALYTICS
+<h2 align="center">05 / GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ellenbeatryzbarone&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub Statistics"/>
+  <img width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=ellenbeatryzbarone&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"
+    alt="GitHub Statistics"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenbeatryzbarone&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" alt="Most Used Languages"/>
+  <img width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenbeatryzbarone&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6"
+    alt="Most Used Languages"/>
 
   <br/><br/>
 
-  <img width="65%" src="https://streak-stats.demolab.com/?user=ellenbeatryzbarone&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=F0ABFC&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=858585" alt="GitHub Streak"/>
+  <img width="75%"
+    src="https://streak-stats.demolab.com/?user=ellenbeatryzbarone&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=F0ABFC&currStreakNum=A78BFA&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=858585"
+    alt="GitHub Contribution Streak"/>
 
 </div>
-
----
-
-## 06 — CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ellenbeatryzbarone&bg_color=0D1117&color=A78BFA&line=8B7CF6&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph"/>
-
-</div>
-
----
-
-<div align="center">
-
-### LET'S BUILD SOMETHING MEANINGFUL.
-
-*Technology is more than code. It's about creating possibilities.*
 
 <br/>
 
-<a href="https://linkedin.com/in/ellen-beatryz-m-s-lago-009159271/">
-  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-8B7CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<!-- 06 - CONTRIBUTION ACTIVITY -->
 
-<br/><br/>
+<h2 align="center">06 / CONTRIBUTION ACTIVITY</h2>
+
+<div align="center">
+
+  <img width="95%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ellenbeatryzbarone&theme=github_dark"
+    alt="GitHub Contribution Overview"/>
+
+</div>
+
+<br/>
+
+<hr/>
+
+<div align="center">
+
+  <h3>LET'S BUILD SOMETHING MEANINGFUL.</h3>
+
+  <i>Technology is more than code. It's about creating possibilities.</i>
+
+  <br/><br/>
+
+  <a href="https://linkedin.com/in/ellen-beatryz-m-s-lago-009159271/">
+    <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-8B7CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=ellenbeatryzbarone&style=flat-square&color=8B7CF6&label=PROFILE+VIEWS"/>
+
+</div>
+
 
 <img src="https://komarev.com/ghpvc/?username=ellenbeatryzbarone&style=flat-square&color=8B7CF6&label=PROFILE+VIEWS" alt="Profile Views"/>
 
