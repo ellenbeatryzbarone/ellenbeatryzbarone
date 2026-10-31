@@ -111,27 +111,43 @@ Topics include:
 
 ---
 
-## GITHUB ANALYTICS
+
+<!-- GITHUB ANALYTICS -->
+
+<h2 align="center">GITHUB ANALYTICS</h2>
+
+<br/>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ellenbeatryzbarone&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub Statistics"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=ellenbeatryzbarone&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"
+    width="48%"
+    alt="GitHub Statistics"
+  />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenbeatryzbarone&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" alt="Most Used Languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com/?user=ellenbeatryzbarone&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=F0ABFC&currStreakNum=A78BFA&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=858585" alt="Contribution Streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ellenbeatryzbarone&theme=github_dark" alt="Contribution Overview"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenbeatryzbarone&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6"
+    width="48%"
+    alt="Most Used Languages"
+  />
 
 </div>
 
----
+<br/>
 
 <div align="center">
+
+  <img
+    src="https://streak-stats.demolab.com/?user=ellenbeatryzbarone&theme=dark&hide_border=true&background=0D1117&stroke=30363D&ring=A78BFA&fire=F0ABFC&currStreakNum=A78BFA&sideNums=C9D1D9&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=858585"
+    width="75%"
+    alt="GitHub Contribution Streak"
+  />
+
+</div>
+
+<br/>
+
 
 ### LET'S BUILD TECHNOLOGY WITH PURPOSE.
 
